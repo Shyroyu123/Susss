@@ -1,0 +1,18 @@
+--Hızını Değiştirir 50 yerine istediğin sayıyıy verebilirsin
+game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 50
+
+game.ReplicatedStorage.SpawnGalaxyBlock:FireServer("")
+
+game.ReplicatedStorage.SpawnRainbowBlock:FireServer("")
+
+game.ReplicatedStorage.SpawnGalaxyBlock:FireServer("")
+
+game.ReplicatedStorage.SpawnRainbowBlock:FireServer("")
+
+game.ReplicatedStorage.SpawnGalaxyBlock:FireServer("")
+
+game.ReplicatedStorage.SpawnRainbowBlock:FireServer("")
+
+
+--Void Block itemlerini verir
+--who can see this he sus lel
